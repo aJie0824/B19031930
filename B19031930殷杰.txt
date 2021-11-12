@@ -1,3 +1,6 @@
+/**本地修改**/
+
+
 char * Strcpy(char * src)
 {
 	int length = 0;
